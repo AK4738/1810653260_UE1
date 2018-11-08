@@ -15,7 +15,8 @@ public class Aufgabe3_1810653260
         double erg3 = zahl4*zahl2;
         double erg4 = zahl1 % zahl2;
         int erg5 = ++zahl3;
+        int erg6 = --zahl2;
 
-        System.out.println("" + erg1 +"\n" + erg2 + "\n" + erg3 + "\n" + erg4 + "\n" + erg5);
+        System.out.println("" + erg1 +"\n" + erg2 + "\n" + erg3 + "\n" + erg4 + "\n" + erg5 + "\n" + erg6);
     }
 }
