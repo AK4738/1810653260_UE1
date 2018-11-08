@@ -11,6 +11,7 @@ public class Aufgabe3_1810653260
         double zahl6=6.5;
 
         int erg1 = zahl1 + zahl2;
-        System.out.println("" + erg1);
+        double erg2 = zahl1 / zahl3;
+        System.out.println("" + erg1 +"\n" + erg2);
     }
 }
