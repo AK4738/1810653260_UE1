@@ -13,7 +13,8 @@ public class Aufgabe3_1810653260
         int erg1 = zahl1 + zahl2;
         double erg2 = zahl1 / zahl3;
         double erg3 = zahl4*zahl2;
+        double erg4 = zahl1 % zahl2;
 
-        System.out.println("" + erg1 +"\n" + erg2 + "\n" + erg3);
+        System.out.println("" + erg1 +"\n" + erg2 + "\n" + erg3 + "\n" + erg4);
     }
 }
