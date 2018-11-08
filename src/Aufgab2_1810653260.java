@@ -12,6 +12,7 @@ public class Aufgab2_1810653260
         short name = 1234; // 16bit
         float name = 2.8f;// ist ähnlich wie double kann aber gleitkommerdarstellung haben 32bit
 
+        final int zahl = 218; //Variablen kann man verändern und Konstante nicht
 
     }
 }
