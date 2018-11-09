@@ -5,8 +5,7 @@ public class Aufgabe5_1810653260
         int zahl1 = 1;
         int zahl2 = 2;
 
-        System.out.println("" + ++zahl1 + "\n" + ++zahl2);
-        System.out.println("" + --zahl1 + "\n" + --zahl2);
-        /* zahl1++ erhöht die Variable nach abruf und ++zahl1 erhöht die Variable vor abruf */
+        System.out.println("" + zahl1++ + "\n" + zahl2++);
+
     }
 }
