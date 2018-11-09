@@ -1,4 +1,13 @@
-package PACKAGE_NAME;
+public class Aufgabe4_1810653260
+{
+    public static void main (String[] args)
+    {
+        int zahl1 = 5;
+        int zahl2 = 2;
 
-public class Aufgabe4_1810653260 {
+        boolean erg1 = zahl1 < zahl2;
+        boolean erg2 = zahl2 < zahl1;
+
+        System.out.println(""+ erg1 + "\n" + erg2);
+    }
 }
