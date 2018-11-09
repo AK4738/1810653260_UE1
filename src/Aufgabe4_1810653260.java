@@ -10,8 +10,9 @@ public class Aufgabe4_1810653260
         boolean erg3 = zahl1 > zahl2;
         boolean erg4 = zahl2 > zahl1;
         boolean erg5 = zahl1 <= zahl2;
+        boolean erg6 = zahl2 <= zahl1;
 
         System.out.println(""+ erg1 + "\n" + erg2 + "\n" +
-                erg3 + "\n" + erg4 + "\n" + erg5);
+                erg3 + "\n" + erg4 + "\n" + erg5 + "\n" + erg6);
     }
 }
