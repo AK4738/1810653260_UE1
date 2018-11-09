@@ -34,6 +34,6 @@ public class Aufgabe4_1810653260
 
         System.out.println(""+ erg1 + "\n" + erg2 + "\n" +
                 erg3 + "\n" + erg4 + "\n" + erg5 + "\n" + erg6 +
-                "\n" + erg7 + "\n" + erg8 + "\n" + );
+                "\n" + erg7 + "\n" + erg8 + "\n" );
     }
 }
